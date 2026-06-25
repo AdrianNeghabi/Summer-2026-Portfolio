@@ -1,0 +1,28 @@
+num1 = input("Enter the first number: ")
+num2 = input("Enter the second number: ")
+OPERATOR = input("Enter an operator (+, -, *, /): ").strip()
+
+try:
+    a = float(num1)
+    b = float(num2)
+except ValueError:
+    print("Error: Please enter valid numbers.")
+    raise SystemExit
+
+if OPERATOR == "+":
+    result = a + b
+    print(f"{num1} + {num2} = {result}")
+elif OPERATOR == "-":
+    result = a - b
+    print(f"{num1} - {num2} = {result}")
+elif OPERATOR == "*":
+    result = a * b
+    print(f"{num1} * {num2} = {result}")
+elif OPERATOR == "/":
+    if b != 0:
+        result = a / b
+        print(f"{num1} / {num2} = {result}")
+    else:
+        print("Error: Division by zero is not allowed.")
+else:
+    print("Invalid operator. Please use +, -, *, or /.")
