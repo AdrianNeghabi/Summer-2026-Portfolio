@@ -49,3 +49,60 @@ Features:
 ### Reflection
 
 This week was my introduction to Python programming and software development. Building the calculator project helped me understand how programming concepts work together to create a complete application. I also learned the basics of GitHub and began developing habits for documenting and sharing my work.
+
+
+## Week 2 Progress – Logic & Control Flow
+
+### Overview
+
+Week 2 focused on learning how programs make decisions and repeat tasks using conditionals and loops. I applied these concepts by building an interactive Number Guessing Game with multiple difficulty levels.
+
+### What I Learned
+
+* Conditional statements (`if`, `elif`, `else`)
+* Boolean logic
+* `for` loops
+* Random number generation
+* User input validation
+* Using Python modules (`random` and `time`)
+
+### Activities Completed
+
+* Studied conditionals and loops through the MIT Python course
+* Practiced writing `for` loops
+* Learned how to use the `random` module
+* Added delays using the `time` module
+* Designed and built a Number Guessing Game
+* Tested and debugged the program
+
+### Project Completed
+
+#### Number Guessing Game v1.0
+
+Features:
+
+* Three difficulty levels (Easy, Medium, Hard)
+* Random number generation between 1 and 100
+* Limited number of guesses based on difficulty
+* "Too high" and "Too low" hints after each guess
+* Win and lose messages
+* Interactive command-line interface
+
+### Skills Developed
+
+* Writing conditional logic
+* Using loops to control program flow
+* Importing and using Python modules
+* Creating interactive console applications
+* Debugging and testing programs
+
+### Reflection
+
+This week helped me understand how conditionals and loops work together to create interactive programs. Building the Number Guessing Game gave me experience designing game logic, working with random numbers, and creating different difficulty levels. I also learned how to improve the user experience by providing helpful feedback after each guess.
+
+### Repository Updates
+
+* Published Number Guessing Game v1.0
+* Added project documentation
+* Continued expanding my Summer 2026 AI & Robotics portfolio
+
