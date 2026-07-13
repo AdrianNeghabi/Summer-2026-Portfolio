@@ -50,7 +50,6 @@ Features:
 
 This week was my introduction to Python programming and software development. Building the calculator project helped me understand how programming concepts work together to create a complete application. I also learned the basics of GitHub and began developing habits for documenting and sharing my work.
 
-
 ## Week 2 Progress – Logic & Control Flow
 
 ### Overview
@@ -103,6 +102,64 @@ This week helped me understand how conditionals and loops work together to creat
 ### Repository Updates
 
 * Published Number Guessing Game v1.0
+* Added project documentation
+* Continued expanding my Summer 2026 AI & Robotics portfolio
+
+* ## Week 3 Progress – Data Structures
+
+### Overview
+
+Week 3 focused on learning how to organize and manage data using Python's built-in data structures. I applied these concepts by creating a Student Grade Manager that stores student records, calculates averages, and allows users to view or remove students.
+
+### What I Learned
+
+* Strings
+* Lists
+* Dictionaries
+* Nested dictionaries
+* Loops for searching data
+* Storing and organizing structured information
+
+### Activities Completed
+
+* Studied Python strings and list operations
+* Learned how dictionaries store key-value pairs
+* Practiced nested dictionaries
+* Built a menu-driven application
+* Implemented student search functionality
+* Added the ability to remove student records
+* Calculated student grade averages
+
+### Project Completed
+
+#### Student Grade Manager v1.0
+
+Features:
+
+* Add new students
+* Store student ID and grade level
+* Record Math, Science, and English grades
+* Automatically calculate grade averages
+* View individual student information
+* Display subject grades
+* Remove students from the database
+* Interactive menu system
+
+### Skills Developed
+
+* Organizing data using lists and dictionaries
+* Creating nested data structures
+* Searching through collections of data
+* Writing menu-driven applications
+* Working with user input and program logic
+
+### Reflection
+
+This week taught me how to organize larger amounts of data efficiently using Python data structures. Building the Student Grade Manager gave me experience designing a simple database, calculating averages, and creating an application that allows users to add, search for, view, and remove records.
+
+### Repository Updates
+
+* Published Student Grade Manager v1.0
 * Added project documentation
 * Continued expanding my Summer 2026 AI & Robotics portfolio
 
