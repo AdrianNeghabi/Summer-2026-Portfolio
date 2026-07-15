@@ -163,3 +163,63 @@ This week taught me how to organize larger amounts of data efficiently using Pyt
 * Added project documentation
 * Continued expanding my Summer 2026 AI & Robotics portfolio
 
+
+## Week 4 Progress – Computational Thinking
+
+### Overview
+
+Week 4 focused on developing computational thinking and problem-solving skills by designing algorithms and applying them to a larger Python project. I built a Robot Competition Score Manager that allows users to register teams, manage competition scores, calculate averages, and display team rankings.
+
+### What I Learned
+
+* Algorithms
+* Computational thinking
+* Problem solving
+* Functions
+* Lists and dictionaries
+* Sorting and ranking data
+
+### Activities Completed
+
+* Studied algorithms and computational thinking
+* Practiced breaking complex problems into smaller steps
+* Designed the Robot Competition Score Manager
+* Implemented team registration and score management
+* Created a ranking system based on average scores
+* Tested and debugged the application
+* Documented and published the project to GitHub
+
+### Project Completed
+
+#### Robot Competition Score Manager v1.0
+
+Features:
+
+* Register competition teams
+* Store team names and team numbers
+* Record Design, Programming, and Teamwork scores
+* Automatically calculate average scores
+* Update team scores
+* Display competition rankings
+* Remove teams from the competition
+* Interactive menu-driven interface
+
+### Skills Developed
+
+* Designing algorithms to solve real-world problems
+* Organizing data using lists and nested dictionaries
+* Writing reusable functions
+* Sorting and ranking data
+* Building larger menu-driven Python applications
+* Testing and debugging code
+
+### Reflection
+
+This week strengthened my computational thinking by teaching me how to design algorithms before writing code. Building the Robot Competition Score Manager helped me apply multiple Python concepts together, including functions, data structures, searching, sorting, and user interaction, resulting in my most advanced project so far.
+
+### Repository Updates
+
+* Published Robot Competition Score Manager v1.0
+* Added project documentation
+* Continued expanding my Summer 2026 AI & Robotics portfolio
+
